@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zephyr Pfeiffer</h1>
 <h3 align="center">A passionate web developer from Florida.</h3>
 
-- 🔭 I’m currently working on [Animal Crossing Inquirer](https://github.com/ZephyrPfeiffer/Animal-Crossing-Inquirer)
-
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
 - 👨‍💻 All of my projects are available at [https://zephyrpfeiffer.netlify.app/](https://zephyrpfeiffer.netlify.app/)
