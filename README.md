@@ -24,7 +24,7 @@
 
 <h3 align="left">Chatbox Demo</h3>
 
-![Chatbox Demo](/chatboxdemo.gif)
+[![Chatbox Demo](/chatboxdemo.gif)](https://chatbox.up.railway.app/){:target="_blank"}
 
 <h3 align="left">MyThoughts Demo</h3>
 
