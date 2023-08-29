@@ -24,12 +24,13 @@
 
 <h3 align="left">Chatbox Demo</h3>
 
-[(/chatboxdemo.gif)](https://chatbox.up.railway.app/){:target="_blank"}
+![Chatbox Demo](/chatboxdemo.gif)(https://chatbox.up.railway.app/)
 
 <h3 align="left">MyThoughts Demo</h3>
 
-[(/mythoughtsdemo.gif)](https://mythoughts.up.railway.app/){:target="_blank"}
+[![MyThoughts Demo](/mythoughtsdemo.gif)](https://mythoughts.up.railway.app/)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zephyrpfeiffer&show_icons=true&locale=en&layout=compact" alt="zephyrpfeiffer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=zephyrpfeiffer&show_icons=true&locale=en" alt="zephyrpfeiffer" /></p>
+
