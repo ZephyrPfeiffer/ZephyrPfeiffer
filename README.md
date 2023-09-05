@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zephyr Pfeiffer</h1>
 <h3 align="center">A passionate software engineer from Florida.</h3>
 
-<p align="left"> <a href="https://twitter.com/@zephyrpfeiffer" target="blank"><img src="https://img.shields.io/twitter/follow/@zephyrpfeiffer?logo=twitter&style=for-the-badge" alt="@zephyrpfeiffer" /></a> </p>
-
 - 🔭 I’m currently working on [FAQ-AI-Chat](https://github.com/grammerhub/faq-ai-chat)
 
 - 🌱 I’m currently learning **Full-Stack Web Development**
