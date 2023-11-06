@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Zephyr Pfeiffer</h1>
 <h3 align="center">A passionate software engineer from Florida.</h3>
 
-- 🔭 I’m currently working on [FAQ-AI-Chat](https://github.com/grammerhub/faq-ai-chat)
-
 - 🌱 I’m currently learning **Full-Stack Web Development**
 
 - My projects are available at [https://zephyrpfeiffer.netlify.app/](https://zephyrpfeiffer.netlify.app/)
