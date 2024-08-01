@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zephyr Pfeiffer</h1>
 <h3 align="center">A passionate software engineer from Florida.</h3>
 
-- 🌱 I’m currently learning **Full-Stack Web Development**
+- 🌱 I currently specialize in **Full-Stack Web Development**
 
 - My projects are available at [https://zephyrpfeiffer.netlify.app/](https://zephyrpfeiffer.netlify.app/)
 
