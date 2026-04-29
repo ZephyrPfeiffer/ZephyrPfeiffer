@@ -26,7 +26,7 @@
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
 </p>
 
-<h2>Projects</h2>
+<h2>Project(s)</h2>
 
 <h3 align="left">Chatbox Demo</h3>
 
