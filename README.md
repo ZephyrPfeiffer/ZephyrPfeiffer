@@ -13,6 +13,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
+| Languages and Tools |
+| --- |
 | <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> |
 
   <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
