@@ -24,8 +24,7 @@
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
-|
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> |
 
 
 <h2>Project(s)</h2>
