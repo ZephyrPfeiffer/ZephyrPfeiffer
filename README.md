@@ -15,8 +15,7 @@
 
 | Languages and Tools |
 | --- |
-| <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
+| <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
