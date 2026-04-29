@@ -15,9 +15,7 @@
 
 | Languages and Tools |
 | --- |
-| <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> |
-
-  <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
+| <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
@@ -26,7 +24,9 @@
   <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> 
+|
+
 
 <h2>Project(s)</h2>
 
