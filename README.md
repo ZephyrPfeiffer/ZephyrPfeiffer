@@ -10,6 +10,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/ZephyrPfeiffer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zephyr Pfeiffer" height="30" width="40" /></a>
+<br>
 <a href="https://twitter.com/zephyrpfeiffer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zephyrpfeiffer" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
