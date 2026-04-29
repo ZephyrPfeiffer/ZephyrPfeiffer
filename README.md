@@ -12,7 +12,7 @@
 <a href="https://linkedin.com/in/ZephyrPfeiffer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zephyr Pfeiffer" height="30" width="40" /></a><a href="https://twitter.com/zephyrpfeiffer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zephyrpfeiffer" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+
   <img src="https://skillicons.dev/icons?i=azure" alt="azure" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
@@ -24,7 +24,6 @@
   <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
   <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-</p>
 
 <h2>Project(s)</h2>
 
