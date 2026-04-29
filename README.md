@@ -10,7 +10,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/ZephyrPfeiffer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Zephyr Pfeiffer" height="30" width="40" /></a>
-<br>
 <a href="https://twitter.com/zephyrpfeiffer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="zephyrpfeiffer" height="30" width="40" /></a>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -26,11 +25,3 @@
 <img src="https://cdn.simpleicons.org/puppeteer/40B5A4" alt="puppeteer" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/>
 <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-
-
-<h2>Project(s)</h2>
-
-<h3 align="left">Chatbox Demo</h3>
-
-[![Chatbox Demo](/chatboxdemo.gif)](https://chatbox.up.railway.app/)
-
